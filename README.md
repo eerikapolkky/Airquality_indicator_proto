@@ -1,1 +1,1 @@
-# Air quality inductor prototype
+# Air quality indicator prototype
